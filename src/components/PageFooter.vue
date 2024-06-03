@@ -46,8 +46,8 @@
             <div class="footer-column">
                 <h3>Download The App</h3>
                 <ul>
-                    <li><router-link to="#"><img src="../assets/google_play2.png" alt="Google Play"/></router-link></li>
-                    <li><router-link to="#"><img src="../assets/app_store.png" alt="App Store"/></router-link></li>
+                    <li><router-link to="#"><img src="../assets/Images/google_play2.png" alt="Google Play"/></router-link></li>
+                    <li><router-link to="#"><img src="../assets/Images/app_store.png" alt="App Store"/></router-link></li>
                 </ul>
             </div>
         </div>
@@ -64,5 +64,5 @@ export default {
 </script>
 
 <style>
-@import '../assets/styles.css';
+@import '../assets/css/Footer.css';
 </style>
